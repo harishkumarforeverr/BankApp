@@ -35,7 +35,7 @@ function BankApp() {
                   color="inherit"
                   aria-label="open drawer"
                   component={Link}
-                  to="/"
+                  to="/home"
                 >
                   <AccountBalanceSharpIcon />
                 </IconButton>
