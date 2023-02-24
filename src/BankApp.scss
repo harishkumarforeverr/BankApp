@@ -1,0 +1,19 @@
+.headerStatic{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoutContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.7rem;
+  .anticon{
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+}
